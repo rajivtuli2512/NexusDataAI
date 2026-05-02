@@ -38,10 +38,9 @@ contactForm.addEventListener('submit', async (e) => {
 
   try {
     // Example endpoint: Replace with your actual backend or use a service like Formspree/Netlify Forms
-    const response = await fetch('https://example.com/api/contact', {
+    const response = await fetch('https://formspree.io/f/mlgzdoqy', {
       method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify(data)
+      body: formData
     });
 
     if(response.ok) {
