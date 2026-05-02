@@ -1,0 +1,30 @@
+<svg width="500" height="150" viewBox="0 0 680 150" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Nexus Data AI logo</title>
+<desc>Diamond compass mark with central nexus node and wordmark.</desc>
+<style>
+  .ll { stroke: #14B8A0; stroke-width: 1.5; fill: none; stroke-linecap: round; }
+  .dp { fill: none; stroke: #14B8A0; stroke-width: 1.5; }
+  .or { fill: none; stroke: #14B8A0; stroke-width: 1; stroke-dasharray: 4 5; opacity: 0.45; }
+  .nt { fill: #14B8A0; }
+  .nd { fill: #0B3D52; }
+  .nr { fill: none; stroke: #14B8A0; stroke-width: 1.5; }
+  .wm { font-family: -apple-system, 'SF Pro Display', 'Segoe UI', sans-serif; fill: #0B2D3E; }
+  .wa { fill: #14B8A0; }
+  .ws { fill: #6B8FA0; font-family: -apple-system, 'SF Pro Display', 'Segoe UI', sans-serif; }
+</style>
+<circle class="or" cx="106" cy="70" r="56"/>
+<polygon class="dp" points="106,22 154,70 106,118 58,70"/>
+<line class="ll" x1="106" y1="70" x2="106" y2="22"/>
+<line class="ll" x1="106" y1="70" x2="154" y2="70"/>
+<line class="ll" x1="106" y1="70" x2="106" y2="118"/>
+<line class="ll" x1="106" y1="70" x2="58" y2="70"/>
+<circle class="nt" cx="106" cy="22" r="8"/>
+<circle class="nt" cx="154" cy="70" r="8"/>
+<circle class="nt" cx="106" cy="118" r="8"/>
+<circle class="nt" cx="58" cy="70" r="8"/>
+<circle class="nd" cx="106" cy="70" r="14"/>
+<circle class="nr" cx="106" cy="70" r="21"/>
+<text class="wm" x="192" y="73" font-size="44" font-weight="700" letter-spacing="5">NEXUS</text>
+<text class="wm" x="193" y="103" font-size="21" font-weight="400" letter-spacing="5">DATA <tspan class="wa" font-weight="700">AI</tspan></text>
+<text class="ws" x="194" y="128" font-size="10.5" letter-spacing="3">INTELLIGENT DATA &amp; AI SOLUTIONS</text>
+</svg>
